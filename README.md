@@ -1,3 +1,3 @@
 # the-true-badgers
-# resolved conflict
+# resolved conflicts
 # multiplication code added in feature-multiplication
