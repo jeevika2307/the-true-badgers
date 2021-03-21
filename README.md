@@ -1,2 +1,3 @@
 # the-true-badgers
-# multiplication code added in feature-multiplication
+# division code added in feature-division
+
