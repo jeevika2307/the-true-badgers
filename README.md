@@ -1,2 +1,2 @@
 # the-true-badgers
-# addition code added in feature-addition
+# subtraction code added in feature-subtraction
